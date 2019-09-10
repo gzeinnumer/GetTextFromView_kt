@@ -1,0 +1,2 @@
+# GetTextFromView_kt
+ 
